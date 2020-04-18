@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# MAGD 150 Assignments 
 
-You can use the [editor on GitHub](https://github.com/grahamkg13/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Here are the coding files I have done in the class, MAGD 150. They were made in P5.Js.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Example 1: Static Compositions in Black and White
+LAB 1 is the basics with learning how to use P5.Js by using grayscale and symmetry. I made a gray house with two windows, a double door, and a sidewalk leading up to the house with a front door step. [Static Compositions in Black and White](https://github.com/grahamkg13/MAGD-150-Assignments/blob/gh-pages/s20magd150lab01_Graham/sketch.js)
 
-### Markdown
+## Example 2: Color Composition
+LAB 2 was working with color and getting used to geometrical shapes and the theme with this project was planets. I made various multicolored planets and two UFOs in the background and a flag on one of the planets.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Example 3: Dynamics
+LAB 4 was working with Dynamism and for that project I made an interactive pizza simulator. It's very simple, but you have the options to select toppings such as sausage or pepperoni or both. Then you can click on the pizza and it will be sliced into 8 pieces. There also is a little animated pizza cutter that flies across the bottom of the screen just for aesthetic purposes or just for a little cute touch.
 
-```markdown
-Syntax highlighted code block
+## Example 4: Intersections
+LAB 5 is working with interactive buttons and for that I have created a TV with two buttons. The right button is the on and off button and when you turn it on, there is a ball that bounces horizontally across the screen. The left button is closed captionings and it just displays text saying "closed captioning on."
 
-# Header 1
-## Header 2
-### Header 3
+## Example 5: Type and Image
+LAB 8 is working with typography and images. For this project I made a short little trailer for a "movie" called Soul Keeper. The images for the trailer change when clicking on them and also the text for the title is animated so it will swoop in. There is also text giving a summary to catch attention. There are also four little "orbs" in the corners that either change color or get smaller. Each text in the project are different fonts. The images used were made by me with a program called MMD or Miku Miku Dance.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grahamkg13/MAGD-150-Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Example 6: Sound and Video
+LAB 9 is working with sound and video. For this project I took an animation I made and also a sound file I made to make a video accompanied by sound. The sound has reverb effects and the video has a 10-15 second delay before it begins. Once it does you can play and pause and the sound will be with it. The video was also made in MMD and the sound file was made in a program called UTAU.
